@@ -8,7 +8,7 @@ from aiogram.filters import Command
 # Токен бота
 Token = ""
 
-admin_id =  #ту свой TGID
+admin_id =  #тут свой TGID
 bot= Bot(Token)
 dp = Dispatcher()
 
